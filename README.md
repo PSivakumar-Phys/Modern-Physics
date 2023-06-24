@@ -1,1 +1,1 @@
-# Computational-dided Modern Physics: Examples with Python Programming
+# Computational-adided Modern Physics: Examples with Python Programming
