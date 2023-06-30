@@ -5,6 +5,11 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
+    
+- name: Fix permission
+  run: |
+  chmod a+x bin/*
+  git commit -am "add permission"
 
 jobs:
   build:
