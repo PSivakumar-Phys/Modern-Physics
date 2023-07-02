@@ -5,7 +5,7 @@ permalink: /modernphysics/
 description: A growing collection of your cool projectsaaa.
 nav: true
 nav_order: 3
-display_categories: [modernphysics]
+display_categories: [Modern Physics]
 horizontal: false
 ---
 

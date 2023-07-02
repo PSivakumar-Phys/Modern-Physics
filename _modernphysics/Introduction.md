@@ -3,10 +3,10 @@ layout: list
 title: Modern Physics
 date: 2023-04-25 10:14:00-0400
 description: Welcome to Modern Physics
-categories: [modernphysics, programming, Modern Physics]
+categories: [Programming, Modern Physics]
 giscus_comments: true
 related_posts: false
-category: modernphysics
+category: Modern Physics
 img: assets/img/12.jpg
 toc:
   sidebar: left
