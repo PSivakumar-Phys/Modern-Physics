@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ML Tute # the website title (if blank, full name will be used instead)
-first_name: Charith
-middle_name: N.
-last_name: Atapattu
+title: PhyScripting # the website title (if blank, full name will be used instead)
+first_name: SIU
+middle_name: 
+last_name: Physics
 email: charithnisanka@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   ML Tute: Your Gateway to Intelligent Machines!

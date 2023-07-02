@@ -6,7 +6,7 @@ description: Python Hello world!
 categories: [python, programming]
 giscus_comments: true
 related_posts: false
-category: python
+category: Python
 img: assets/img/12.jpg
 toc:
   sidebar: left
